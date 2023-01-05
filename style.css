@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'Eugusto';
     src: url(Fonts/Eugusto.otf);
+    color: #121216;
 }
 
 header {
@@ -10,7 +11,7 @@ header {
     justify-content: left;
     flex-direction: column;
     margin: 0;
-    background: white;
+    background: #949c9e;
 }
 
 main {
@@ -20,10 +21,8 @@ main {
     justify-content: center;
     flex-direction: column;
     margin: 0;
-    background: white;
+    background: #949c9e;
     text-align: center;
-    margin-left: 25%;
-    margin-right: 25%;
 }
 
 h1 {
@@ -35,4 +34,9 @@ p {
     font-family: 'Eugusto', sans-serif;
     font-size: 16px;
     text-indent: 10%;
+    max-width: 50%;
+}
+
+a {
+    color: #23242c;
 }
