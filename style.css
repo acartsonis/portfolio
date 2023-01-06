@@ -11,7 +11,7 @@ header {
     justify-content: left;
     flex-direction: column;
     margin: 0;
-    background: #949c9e;
+    background: white;
 }
 
 main {
@@ -21,7 +21,7 @@ main {
     justify-content: center;
     flex-direction: column;
     margin: 0;
-    background: #949c9e;
+    background: white;
     text-align: center;
 }
 
