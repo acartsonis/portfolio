@@ -4,6 +4,10 @@
     color: #121216;
 }
 
+body {
+    background: white;
+}
+
 header {
     font-family: 'Eugusto';
     display: flex;
@@ -39,4 +43,9 @@ p {
 
 a {
     color: #23242c;
+}
+
+.custom {
+    width: 50%;
+    height: 50%;
 }
